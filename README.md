@@ -27,17 +27,18 @@
 
 ### 진행 미션
 
-|      Project      |                                 Repository                                  |                              Pull Request                              |
-|:-----------------:|:---------------------------------------------------------------------------:|:----------------------------------------------------------------------:|
-| 자동차 경주 게임 / step1 | [java-racingcar/step1](https://github.com/CFalws/java-racingcar/tree/step1) | [Pull Request](https://github.com/woowacourse/java-racingcar/pull/444) |
-| 자동차 경주 게임 / step2 | [java-racingcar/step2](https://github.com/CFalws/java-racingcar/tree/step2) | [Pull Request](https://github.com/woowacourse/java-racingcar/pull/586) |
-|    사다리 / step1    |    [java-ladder/step1](https://github.com/CFalws/java-ladder/tree/step1)    |   [Pull Request](https://github.com/woowacourse/java-ladder/pull/86)   |
-|    사다리 / step2    |    [java-ladder/step2](https://github.com/CFalws/java-ladder/tree/step2)    |  [Pull Request](https://github.com/woowacourse/java-ladder/pull/238)   |
-|    블랙잭 / step1    | [java-blackjack/step1](https://github.com/CFalws/java-blackjack/tree/step1) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/467) |
-|    블랙잭 / step2    | [java-blackjack/step2](https://github.com/CFalws/java-blackjack/tree/step2) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/519) |
-|    체스 / step1     |     [java-chess/step1](https://github.com/CFalws/java-chess/tree/step1)     |   [Pull Request](https://github.com/woowacourse/java-chess/pull/445)   |
-|    체스 / step2     |     [java-chess/step2](https://github.com/CFalws/java-chess/tree/step2)     |   [Pull Request](https://github.com/woowacourse/java-chess/pull/600)   |
-|     체스 / 개인공부     |      [java-chess/개인공부](https://github.com/CFalws/java-chess/tree/new/src/main/java/chess)       |                                   x                                    |
+|      Project      |                                    Repository                                     |                                                             Pull Request                                                             |
+|:-----------------:|:---------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|
+| 자동차 경주 게임 / step1 |    [java-racingcar/step1](https://github.com/CFalws/java-racingcar/tree/step1)    |                                [Pull Request](https://github.com/woowacourse/java-racingcar/pull/444)                                |
+| 자동차 경주 게임 / step2 |    [java-racingcar/step2](https://github.com/CFalws/java-racingcar/tree/step2)    |                                [Pull Request](https://github.com/woowacourse/java-racingcar/pull/586)                                |
+|    사다리 / step1    |       [java-ladder/step1](https://github.com/CFalws/java-ladder/tree/step1)       |                                  [Pull Request](https://github.com/woowacourse/java-ladder/pull/86)                                  |
+|    사다리 / step2    |       [java-ladder/step2](https://github.com/CFalws/java-ladder/tree/step2)       |                                 [Pull Request](https://github.com/woowacourse/java-ladder/pull/238)                                  |
+|    블랙잭 / step1    |    [java-blackjack/step1](https://github.com/CFalws/java-blackjack/tree/step1)    |                                [Pull Request](https://github.com/woowacourse/java-blackjack/pull/467)                                |
+|    블랙잭 / step2    |    [java-blackjack/step2](https://github.com/CFalws/java-blackjack/tree/step2)    |                                [Pull Request](https://github.com/woowacourse/java-blackjack/pull/519)                                |
+|    체스 / step1     |        [java-chess/step1](https://github.com/CFalws/java-chess/tree/step1)        |                                  [Pull Request](https://github.com/woowacourse/java-chess/pull/445)                                  |
+|    체스 / step2     |        [java-chess/step2](https://github.com/CFalws/java-chess/tree/step2)        |                                  [Pull Request](https://github.com/woowacourse/java-chess/pull/600)                                  |
+|    블랙잭 / 개인공부     |                                java-blackjack/개인공부                                |                                   [Pull Request](https://github.com/CFalws/java-blackjack/pull/1)                                    |
+|     체스 / 개인공부     |                                  java-chess/개인공부                                  |                                   [Pull Request](https://github.com/CFalws/java-chess/pull/1)                                    |
 <br/>
 
 ## 🐣 Level 2 : 웹 프로그래밍
