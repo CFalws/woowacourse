@@ -37,7 +37,7 @@
 |    블랙잭 / step2    | [java-blackjack/step2](https://github.com/CFalws/java-blackjack/tree/step2) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/519) |
 |    체스 / step1     |     [java-chess/step1](https://github.com/CFalws/java-chess/tree/step1)     |   [Pull Request](https://github.com/woowacourse/java-chess/pull/445)   |
 |    체스 / step2     |     [java-chess/step2](https://github.com/CFalws/java-chess/tree/step2)     |   [Pull Request](https://github.com/woowacourse/java-chess/pull/600)   |
-|     체스 / 개인공부     |      [java-chess/개인공부](https://github.com/CFalws/java-chess/tree/new)       |                                   x                                    |
+|     체스 / 개인공부     |      [java-chess/개인공부](https://github.com/CFalws/java-chess/tree/new/src/main/java/chess)       |                                   x                                    |
 <br/>
 
 ## 🐣 Level 2 : 웹 프로그래밍
